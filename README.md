@@ -15,3 +15,8 @@ In the field of Human Resources, analyzing employee attrition is vital for maint
 Objectives of the Analysis:
 
 The primary objective of this analysis is to predict employee attrition using classification techniques in machine learning. By building predictive models, we aim to identify key factors influencing attrition and provide actionable insights to HR professionals. This analysis will help in developing strategies to minimize attrition rates and improve overall employee engagement.
+
+
+Dataset used: IBM HR Analytics Employee Attrition & Performance
+
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download
